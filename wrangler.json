@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "steep-block-7b4b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "00918d44-65b8-4126-be0a-cd9f206505af",
+      "database_name": "silent-wildflower-681f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
